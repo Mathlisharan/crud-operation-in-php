@@ -13,8 +13,7 @@ if(count($_POST)!=0)
     {
         echo "Record not Inserted";
     }
-}
-?>
+}?>
 
 <!DOCTYPE html>
 <html lang="en">
